@@ -1,0 +1,18 @@
+.venv/
+
+# Large data files
+data/sales.csv
+data/purchases.csv
+inventory.db
+
+# Binary/executable files
+*.exe
+*.pbix
+*.docx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+logs/
