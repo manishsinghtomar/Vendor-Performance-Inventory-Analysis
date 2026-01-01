@@ -71,6 +71,11 @@ The data was analyzed after cleaning and filtering to ensure meaningful insights
 
 ---
 
+## Screenshots / Demos
+
+Show what the dashboard looks like.
+Example: ![Dashboard Preview].(https://github.com/manishsinghtomar/Vendor-Performance-Inventory-Analysis/blob/main/snapshot_of_dashboard.png)
+
 ## 👤 Author
 
 **Manish Tomar**
